@@ -1,0 +1,768 @@
+[
+    {
+        "image_path": "static/uploads/img_2.jpg",
+        "column": "left",
+        "detected_text": [
+            {
+                "text": "1",
+                "bounding_box": [
+                    55.0,
+                    21.0,
+                    66.0,
+                    20.0,
+                    66.0,
+                    36.0,
+                    55.0,
+                    36.0
+                ]
+            },
+            {
+                "text": "His",
+                "bounding_box": [
+                    364.0,
+                    43.0,
+                    402.0,
+                    44.0,
+                    402.0,
+                    63.0,
+                    363.0,
+                    62.0
+                ]
+            },
+            {
+                "text": "Chapter 1 - The Advent",
+                "bounding_box": [
+                    178.0,
+                    71.0,
+                    402.0,
+                    69.0,
+                    402.0,
+                    94.0,
+                    178.0,
+                    96.0
+                ]
+            },
+            {
+                "text": "Textbox begins",
+                "bounding_box": [
+                    64.0,
+                    218.0,
+                    186.0,
+                    217.0,
+                    186.0,
+                    239.0,
+                    64.0,
+                    241.0
+                ]
+            },
+            {
+                "text": "We learn about the following in this chap",
+                "bounding_box": [
+                    64.0,
+                    254.0,
+                    401.0,
+                    254.0,
+                    401.0,
+                    274.0,
+                    64.0,
+                    272.0
+                ]
+            },
+            {
+                "text": ".",
+                "bounding_box": [
+                    92.0,
+                    288.0,
+                    110.0,
+                    288.0,
+                    109.0,
+                    304.0,
+                    91.0,
+                    303.0
+                ]
+            },
+            {
+                "text": "The trade and commerce relationship",
+                "bounding_box": [
+                    121.0,
+                    288.0,
+                    404.0,
+                    288.0,
+                    404.0,
+                    308.0,
+                    120.0,
+                    306.0
+                ]
+            },
+            {
+                "text": "The arrival of Europeans to India for",
+                "bounding_box": [
+                    122.0,
+                    322.0,
+                    401.0,
+                    322.0,
+                    401.0,
+                    342.0,
+                    122.0,
+                    341.0
+                ]
+            },
+            {
+                "text": ".",
+                "bounding_box": [
+                    93.0,
+                    357.0,
+                    110.0,
+                    358.0,
+                    109.0,
+                    374.0,
+                    92.0,
+                    373.0
+                ]
+            },
+            {
+                "text": "The Carnatic wars in the backdrop of",
+                "bounding_box": [
+                    121.0,
+                    357.0,
+                    404.0,
+                    357.0,
+                    403.0,
+                    377.0,
+                    121.0,
+                    376.0
+                ]
+            },
+            {
+                "text": ".",
+                "bounding_box": [
+                    93.0,
+                    392.0,
+                    109.0,
+                    393.0,
+                    108.0,
+                    408.0,
+                    92.0,
+                    408.0
+                ]
+            },
+            {
+                "text": "Battle of Plassey, Battle of Buxar and",
+                "bounding_box": [
+                    121.0,
+                    392.0,
+                    404.0,
+                    393.0,
+                    403.0,
+                    411.0,
+                    121.0,
+                    410.0
+                ]
+            },
+            {
+                "text": "The British policy of aggression",
+                "bounding_box": [
+                    121.0,
+                    428.0,
+                    366.0,
+                    428.0,
+                    366.0,
+                    448.0,
+                    121.0,
+                    446.0
+                ]
+            },
+            {
+                "text": "Textbox ends",
+                "bounding_box": [
+                    64.0,
+                    452.0,
+                    168.0,
+                    452.0,
+                    168.0,
+                    469.0,
+                    64.0,
+                    468.0
+                ]
+            },
+            {
+                "text": "There were trade and commerce relations bet",
+                "bounding_box": [
+                    56.0,
+                    474.0,
+                    404.0,
+                    474.0,
+                    403.0,
+                    492.0,
+                    56.0,
+                    491.0
+                ]
+            },
+            {
+                "text": "There was great demand for Indian pepper, cu",
+                "bounding_box": [
+                    56.0,
+                    496.0,
+                    404.0,
+                    497.0,
+                    404.0,
+                    517.0,
+                    56.0,
+                    515.0
+                ]
+            },
+            {
+                "text": "other spices in Europe. The trade relations be",
+                "bounding_box": [
+                    56.0,
+                    518.0,
+                    403.0,
+                    517.0,
+                    403.0,
+                    537.0,
+                    56.0,
+                    538.0
+                ]
+            },
+            {
+                "text": "countries continued even during the Middle A",
+                "bounding_box": [
+                    56.0,
+                    539.0,
+                    404.0,
+                    539.0,
+                    403.0,
+                    559.0,
+                    56.0,
+                    559.0
+                ]
+            },
+            {
+                "text": "merchandise to Constantinople of Eastern Ro",
+                "bounding_box": [
+                    55.0,
+                    561.0,
+                    404.0,
+                    561.0,
+                    403.0,
+                    581.0,
+                    55.0,
+                    581.0
+                ]
+            },
+            {
+                "text": "merchants would buy these goods and then se",
+                "bounding_box": [
+                    55.0,
+                    584.0,
+                    403.0,
+                    584.0,
+                    404.0,
+                    603.0,
+                    55.0,
+                    603.0
+                ]
+            },
+            {
+                "text": "Constantinople was thus the centre of interna",
+                "bounding_box": [
+                    56.0,
+                    605.0,
+                    402.0,
+                    605.0,
+                    402.0,
+                    625.0,
+                    56.0,
+                    625.0
+                ]
+            },
+            {
+                "text": "'Gateway of European Trade'. While Arab m",
+                "bounding_box": [
+                    57.0,
+                    627.0,
+                    403.0,
+                    627.0,
+                    404.0,
+                    647.0,
+                    57.0,
+                    647.0
+                ]
+            },
+            {
+                "text": "in Asian countries, Italian traders had gained",
+                "bounding_box": [
+                    55.0,
+                    650.0,
+                    402.0,
+                    650.0,
+                    402.0,
+                    669.0,
+                    55.0,
+                    668.0
+                ]
+            },
+            {
+                "text": "merchandise from Asia brought good profits",
+                "bounding_box": [
+                    55.0,
+                    672.0,
+                    398.0,
+                    673.0,
+                    398.0,
+                    693.0,
+                    55.0,
+                    691.0
+                ]
+            },
+            {
+                "text": "The fall of Constantinople: The trade and con",
+                "bounding_box": [
+                    56.0,
+                    694.0,
+                    404.0,
+                    695.0,
+                    403.0,
+                    714.0,
+                    56.0,
+                    713.0
+                ]
+            },
+            {
+                "text": "on place through the city of Constantinople. I",
+                "bounding_box": [
+                    56.0,
+                    717.0,
+                    403.0,
+                    716.0,
+                    404.0,
+                    736.0,
+                    56.0,
+                    737.0
+                ]
+            },
+            {
+                "text": "of Constantinople. As a result, all the trade ro",
+                "bounding_box": [
+                    54.0,
+                    738.0,
+                    403.0,
+                    738.0,
+                    404.0,
+                    758.0,
+                    54.0,
+                    758.0
+                ]
+            },
+            {
+                "text": "came under the control of Turks. The Turks s",
+                "bounding_box": [
+                    56.0,
+                    761.0,
+                    403.0,
+                    761.0,
+                    404.0,
+                    778.0,
+                    56.0,
+                    779.0
+                ]
+            },
+            {
+                "text": "passing through these routes. As a result, trad",
+                "bounding_box": [
+                    55.0,
+                    783.0,
+                    403.0,
+                    783.0,
+                    404.0,
+                    802.0,
+                    55.0,
+                    803.0
+                ]
+            },
+            {
+                "text": "Portugal and other European rulers were atter",
+                "bounding_box": [
+                    56.0,
+                    804.0,
+                    404.0,
+                    804.0,
+                    403.0,
+                    824.0,
+                    56.0,
+                    824.0
+                ]
+            },
+            {
+                "text": "traders. They started encouraging enterprising",
+                "bounding_box": [
+                    55.0,
+                    826.0,
+                    404.0,
+                    827.0,
+                    404.0,
+                    847.0,
+                    54.0,
+                    846.0
+                ]
+            },
+            {
+                "text": "invention of compass, astrolabes, and gunpov",
+                "bounding_box": [
+                    55.0,
+                    848.0,
+                    403.0,
+                    850.0,
+                    403.0,
+                    869.0,
+                    55.0,
+                    867.0
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "static/uploads/img_2.jpg",
+        "column": "right",
+        "detected_text": [
+            {
+                "text": "tory",
+                "bounding_box": [
+                    0.0,
+                    44.0,
+                    43.0,
+                    47.0,
+                    42.0,
+                    68.0,
+                    0.0,
+                    65.0
+                ]
+            },
+            {
+                "text": "Of Europeans To India",
+                "bounding_box": [
+                    6.0,
+                    70.0,
+                    230.0,
+                    69.0,
+                    230.0,
+                    94.0,
+                    6.0,
+                    95.0
+                ]
+            },
+            {
+                "text": "Y3N214",
+                "bounding_box": [
+                    267.0,
+                    185.0,
+                    332.0,
+                    185.0,
+                    332.0,
+                    198.0,
+                    267.0,
+                    197.0
+                ]
+            },
+            {
+                "text": "er:",
+                "bounding_box": [
+                    0.0,
+                    257.0,
+                    26.0,
+                    257.0,
+                    25.0,
+                    270.0,
+                    0.0,
+                    270.0
+                ]
+            },
+            {
+                "text": "India had with Europeans",
+                "bounding_box": [
+                    1.0,
+                    285.0,
+                    197.0,
+                    286.0,
+                    197.0,
+                    309.0,
+                    1.0,
+                    308.0
+                ]
+            },
+            {
+                "text": "trade",
+                "bounding_box": [
+                    0.0,
+                    324.0,
+                    36.0,
+                    324.0,
+                    37.0,
+                    339.0,
+                    0.0,
+                    340.0
+                ]
+            },
+            {
+                "text": "European political developments.",
+                "bounding_box": [
+                    0.0,
+                    357.0,
+                    254.0,
+                    357.0,
+                    254.0,
+                    378.0,
+                    0.0,
+                    378.0
+                ]
+            },
+            {
+                "text": "Dual-Government system",
+                "bounding_box": [
+                    3.0,
+                    393.0,
+                    200.0,
+                    394.0,
+                    200.0,
+                    412.0,
+                    3.0,
+                    410.0
+                ]
+            },
+            {
+                "text": "ween India and Europe since ancient times.",
+                "bounding_box": [
+                    0.0,
+                    474.0,
+                    330.0,
+                    474.0,
+                    330.0,
+                    492.0,
+                    0.0,
+                    492.0
+                ]
+            },
+            {
+                "text": "imin, cinnamon, cardamom, ginger and many",
+                "bounding_box": [
+                    0.0,
+                    496.0,
+                    350.0,
+                    496.0,
+                    350.0,
+                    516.0,
+                    0.0,
+                    515.0
+                ]
+            },
+            {
+                "text": "tween India, Europe and other Asian",
+                "bounding_box": [
+                    0.0,
+                    518.0,
+                    281.0,
+                    518.0,
+                    281.0,
+                    536.0,
+                    0.0,
+                    537.0
+                ]
+            },
+            {
+                "text": "ges. The Arab merchants carried Asian",
+                "bounding_box": [
+                    2.0,
+                    540.0,
+                    305.0,
+                    540.0,
+                    305.0,
+                    558.0,
+                    2.0,
+                    559.0
+                ]
+            },
+            {
+                "text": "man (Byzantium) Empire. The Italian",
+                "bounding_box": [
+                    0.0,
+                    562.0,
+                    289.0,
+                    561.0,
+                    289.0,
+                    580.0,
+                    0.0,
+                    582.0
+                ]
+            },
+            {
+                "text": "ll them in European countries.",
+                "bounding_box": [
+                    0.0,
+                    583.0,
+                    234.0,
+                    584.0,
+                    233.0,
+                    603.0,
+                    0.0,
+                    602.0
+                ]
+            },
+            {
+                "text": "tional trade and was considered as the",
+                "bounding_box": [
+                    0.0,
+                    606.0,
+                    289.0,
+                    606.0,
+                    289.0,
+                    624.0,
+                    0.0,
+                    624.0
+                ]
+            },
+            {
+                "text": "erchants had gained monopoly over the trade",
+                "bounding_box": [
+                    0.0,
+                    627.0,
+                    346.0,
+                    627.0,
+                    346.0,
+                    647.0,
+                    0.0,
+                    647.0
+                ]
+            },
+            {
+                "text": "monopoly over trade in Europe. The",
+                "bounding_box": [
+                    0.0,
+                    651.0,
+                    280.0,
+                    650.0,
+                    280.0,
+                    669.0,
+                    0.0,
+                    670.0
+                ]
+            },
+            {
+                "text": "to Italian merchants.",
+                "bounding_box": [
+                    0.0,
+                    673.0,
+                    155.0,
+                    673.0,
+                    155.0,
+                    691.0,
+                    0.0,
+                    691.0
+                ]
+            },
+            {
+                "text": "merce between Asia and Europe was carried",
+                "bounding_box": [
+                    0.0,
+                    695.0,
+                    348.0,
+                    695.0,
+                    348.0,
+                    714.0,
+                    0.0,
+                    714.0
+                ]
+            },
+            {
+                "text": "n 1453, the Ottoman Turks captured the city",
+                "bounding_box": [
+                    0.0,
+                    717.0,
+                    340.0,
+                    717.0,
+                    340.0,
+                    736.0,
+                    0.0,
+                    736.0
+                ]
+            },
+            {
+                "text": "utes connecting the city of Constantinople",
+                "bounding_box": [
+                    0.0,
+                    738.0,
+                    326.0,
+                    739.0,
+                    326.0,
+                    759.0,
+                    0.0,
+                    759.0
+                ]
+            },
+            {
+                "text": "tarted levying too many taxes on the goods",
+                "bounding_box": [
+                    0.0,
+                    761.0,
+                    330.0,
+                    761.0,
+                    330.0,
+                    781.0,
+                    0.0,
+                    780.0
+                ]
+            },
+            {
+                "text": "e became unprofitable. Meanwhile, Spain,",
+                "bounding_box": [
+                    0.0,
+                    782.0,
+                    325.0,
+                    783.0,
+                    325.0,
+                    803.0,
+                    0.0,
+                    802.0
+                ]
+            },
+            {
+                "text": "npting to break the monopoly of Italian",
+                "bounding_box": [
+                    0.0,
+                    805.0,
+                    303.0,
+                    804.0,
+                    303.0,
+                    824.0,
+                    0.0,
+                    825.0
+                ]
+            },
+            {
+                "text": "sailors to find a new sea route to India. The",
+                "bounding_box": [
+                    0.0,
+                    827.0,
+                    343.0,
+                    827.0,
+                    343.0,
+                    845.0,
+                    0.0,
+                    845.0
+                ]
+            },
+            {
+                "text": "der provided further impetus to this venture.",
+                "bounding_box": [
+                    0.0,
+                    849.0,
+                    345.0,
+                    849.0,
+                    345.0,
+                    868.0,
+                    0.0,
+                    869.0
+                ]
+            }
+        ]
+    }
+]

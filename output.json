@@ -1,0 +1,948 @@
+[
+    {
+        "image_path": "uploads\\image_2.jpg",
+        "detected_text": [
+            {
+                "text": "History",
+                "bounding_box": [
+                    237.0,
+                    33.0,
+                    324.0,
+                    35.0,
+                    324.0,
+                    58.0,
+                    236.0,
+                    56.0
+                ]
+            },
+            {
+                "text": "Chapter - 1",
+                "bounding_box": [
+                    222.0,
+                    68.0,
+                    353.0,
+                    68.0,
+                    353.0,
+                    91.0,
+                    222.0,
+                    92.0
+                ]
+            },
+            {
+                "text": "THE ADVENT OF EUROPEANS TO INDIA",
+                "bounding_box": [
+                    61.0,
+                    100.0,
+                    498.0,
+                    100.0,
+                    498.0,
+                    121.0,
+                    61.0,
+                    121.0
+                ]
+            },
+            {
+                "text": "Y3N214",
+                "bounding_box": [
+                    539.0,
+                    116.0,
+                    601.0,
+                    116.0,
+                    601.0,
+                    128.0,
+                    539.0,
+                    127.0
+                ]
+            },
+            {
+                "text": "We learn about the following in this chapter:",
+                "bounding_box": [
+                    45.0,
+                    166.0,
+                    447.0,
+                    166.0,
+                    447.0,
+                    185.0,
+                    45.0,
+                    184.0
+                ]
+            },
+            {
+                "text": "The trade and commerce relationship India had with Europeans",
+                "bounding_box": [
+                    73.0,
+                    196.0,
+                    600.0,
+                    197.0,
+                    600.0,
+                    215.0,
+                    73.0,
+                    214.0
+                ]
+            },
+            {
+                "text": "The arrival of Europeans to India for trade",
+                "bounding_box": [
+                    71.0,
+                    218.0,
+                    423.0,
+                    218.0,
+                    423.0,
+                    237.0,
+                    71.0,
+                    237.0
+                ]
+            },
+            {
+                "text": "The Carnatic wars in the backdrop of European political",
+                "bounding_box": [
+                    71.0,
+                    241.0,
+                    537.0,
+                    241.0,
+                    537.0,
+                    261.0,
+                    71.0,
+                    260.0
+                ]
+            },
+            {
+                "text": "developments.",
+                "bounding_box": [
+                    75.0,
+                    264.0,
+                    191.0,
+                    264.0,
+                    191.0,
+                    281.0,
+                    75.0,
+                    281.0
+                ]
+            },
+            {
+                "text": "Battle of Plassey, Battle of Buxar and Dual-Government system",
+                "bounding_box": [
+                    73.0,
+                    285.0,
+                    602.0,
+                    286.0,
+                    602.0,
+                    304.0,
+                    73.0,
+                    303.0
+                ]
+            },
+            {
+                "text": "The British policy of aggression",
+                "bounding_box": [
+                    72.0,
+                    306.0,
+                    332.0,
+                    307.0,
+                    332.0,
+                    327.0,
+                    72.0,
+                    326.0
+                ]
+            },
+            {
+                "text": "There were trade and commerce relations between India and Europe",
+                "bounding_box": [
+                    56.0,
+                    367.0,
+                    621.0,
+                    367.0,
+                    621.0,
+                    386.0,
+                    56.0,
+                    386.0
+                ]
+            },
+            {
+                "text": "since ancient times. There was great demand for Indian pepper, cumin,",
+                "bounding_box": [
+                    26.0,
+                    387.0,
+                    619.0,
+                    388.0,
+                    619.0,
+                    407.0,
+                    26.0,
+                    406.0
+                ]
+            },
+            {
+                "text": "demand for two",
+                "bounding_box": [
+                    330.0,
+                    390.0,
+                    483.0,
+                    297.0,
+                    503.0,
+                    344.0,
+                    353.0,
+                    422.0
+                ]
+            },
+            {
+                "text": "cinnamon, cardamom, ginger and many other spices in Europe. The trade",
+                "bounding_box": [
+                    26.0,
+                    409.0,
+                    621.0,
+                    408.0,
+                    621.0,
+                    427.0,
+                    26.0,
+                    428.0
+                ]
+            },
+            {
+                "text": "relations between India, Europe and other Asian countries continued even",
+                "bounding_box": [
+                    24.0,
+                    429.0,
+                    620.0,
+                    429.0,
+                    620.0,
+                    447.0,
+                    24.0,
+                    447.0
+                ]
+            },
+            {
+                "text": "during the Middle Ages. The Arab merchants carried Asian merchandise",
+                "bounding_box": [
+                    25.0,
+                    450.0,
+                    620.0,
+                    450.0,
+                    620.0,
+                    469.0,
+                    25.0,
+                    469.0
+                ]
+            },
+            {
+                "text": "to Constantinople of Eastern Roman (Byzantium) Empire. The Italian",
+                "bounding_box": [
+                    25.0,
+                    471.0,
+                    620.0,
+                    471.0,
+                    620.0,
+                    490.0,
+                    25.0,
+                    490.0
+                ]
+            },
+            {
+                "text": "merchants would buy these goods and then sell them in European",
+                "bounding_box": [
+                    25.0,
+                    492.0,
+                    620.0,
+                    492.0,
+                    620.0,
+                    512.0,
+                    25.0,
+                    511.0
+                ]
+            },
+            {
+                "text": "countries. Constantinople was thus the center of international trade",
+                "bounding_box": [
+                    26.0,
+                    514.0,
+                    621.0,
+                    513.0,
+                    621.0,
+                    532.0,
+                    26.0,
+                    533.0
+                ]
+            },
+            {
+                "text": "and was considered as the 'Gateway of European Trade'. While Arab",
+                "bounding_box": [
+                    25.0,
+                    535.0,
+                    620.0,
+                    534.0,
+                    620.0,
+                    553.0,
+                    25.0,
+                    553.0
+                ]
+            },
+            {
+                "text": "merchants had gained monopoly over the trade in Asian countries, Italian",
+                "bounding_box": [
+                    23.0,
+                    555.0,
+                    620.0,
+                    555.0,
+                    620.0,
+                    574.0,
+                    23.0,
+                    575.0
+                ]
+            },
+            {
+                "text": "traders had gained monopoly over trade in Europe. The merchandise from",
+                "bounding_box": [
+                    25.0,
+                    576.0,
+                    621.0,
+                    576.0,
+                    621.0,
+                    595.0,
+                    25.0,
+                    596.0
+                ]
+            },
+            {
+                "text": "Asia brought good profits to Italian merchants.",
+                "bounding_box": [
+                    25.0,
+                    597.0,
+                    419.0,
+                    597.0,
+                    419.0,
+                    616.0,
+                    25.0,
+                    616.0
+                ]
+            },
+            {
+                "text": "The fall of Constantinople: The trade and commerce between Asia",
+                "bounding_box": [
+                    56.0,
+                    621.0,
+                    621.0,
+                    622.0,
+                    621.0,
+                    641.0,
+                    56.0,
+                    640.0
+                ]
+            },
+            {
+                "text": "and Europe was carried on place through the city of Constantinople. In",
+                "bounding_box": [
+                    25.0,
+                    643.0,
+                    621.0,
+                    643.0,
+                    621.0,
+                    662.0,
+                    25.0,
+                    662.0
+                ]
+            },
+            {
+                "text": "1453, the Ottoman Turks captured the city of Constantinople. As a result,",
+                "bounding_box": [
+                    25.0,
+                    663.0,
+                    619.0,
+                    664.0,
+                    619.0,
+                    683.0,
+                    25.0,
+                    682.0
+                ]
+            },
+            {
+                "text": "all the trade routes connecting the city of Constantinople came under the",
+                "bounding_box": [
+                    25.0,
+                    684.0,
+                    620.0,
+                    684.0,
+                    620.0,
+                    704.0,
+                    25.0,
+                    704.0
+                ]
+            },
+            {
+                "text": "control of Turks. The Turks started levying too many taxes on the goods",
+                "bounding_box": [
+                    24.0,
+                    705.0,
+                    620.0,
+                    706.0,
+                    620.0,
+                    725.0,
+                    24.0,
+                    724.0
+                ]
+            },
+            {
+                "text": "passing through these routes. As a result, trade became unprofitable.",
+                "bounding_box": [
+                    24.0,
+                    727.0,
+                    620.0,
+                    726.0,
+                    620.0,
+                    745.0,
+                    24.0,
+                    745.0
+                ]
+            },
+            {
+                "text": "Meanwhile, Spain, Portugal and other European rulers were attempting",
+                "bounding_box": [
+                    25.0,
+                    747.0,
+                    622.0,
+                    748.0,
+                    622.0,
+                    767.0,
+                    25.0,
+                    766.0
+                ]
+            },
+            {
+                "text": "to break the monopoly of Italian traders. They started encouraging",
+                "bounding_box": [
+                    25.0,
+                    768.0,
+                    620.0,
+                    768.0,
+                    620.0,
+                    788.0,
+                    25.0,
+                    787.0
+                ]
+            },
+            {
+                "text": "enterprising sailors to find a new sea route to India. The invention of",
+                "bounding_box": [
+                    25.0,
+                    790.0,
+                    621.0,
+                    790.0,
+                    621.0,
+                    808.0,
+                    25.0,
+                    809.0
+                ]
+            },
+            {
+                "text": "compass, astrolabes, and gunpowder provided further impetus to this",
+                "bounding_box": [
+                    25.0,
+                    811.0,
+                    620.0,
+                    810.0,
+                    620.0,
+                    829.0,
+                    25.0,
+                    831.0
+                ]
+            },
+            {
+                "text": "venture.",
+                "bounding_box": [
+                    24.0,
+                    833.0,
+                    94.0,
+                    833.0,
+                    93.0,
+                    849.0,
+                    24.0,
+                    849.0
+                ]
+            },
+            {
+                "text": "1",
+                "bounding_box": [
+                    325.0,
+                    856.0,
+                    325.0,
+                    870.0,
+                    320.0,
+                    871.0,
+                    319.0,
+                    857.0
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "uploads\\image_2.jpg",
+        "detected_text": [
+            {
+                "text": "History",
+                "bounding_box": [
+                    237.0,
+                    33.0,
+                    324.0,
+                    35.0,
+                    324.0,
+                    58.0,
+                    236.0,
+                    56.0
+                ]
+            },
+            {
+                "text": "Chapter - 1",
+                "bounding_box": [
+                    222.0,
+                    68.0,
+                    353.0,
+                    68.0,
+                    353.0,
+                    91.0,
+                    222.0,
+                    92.0
+                ]
+            },
+            {
+                "text": "THE ADVENT OF EUROPEANS TO INDIA",
+                "bounding_box": [
+                    61.0,
+                    100.0,
+                    498.0,
+                    100.0,
+                    498.0,
+                    121.0,
+                    61.0,
+                    121.0
+                ]
+            },
+            {
+                "text": "Y3N214",
+                "bounding_box": [
+                    539.0,
+                    116.0,
+                    601.0,
+                    116.0,
+                    601.0,
+                    128.0,
+                    539.0,
+                    127.0
+                ]
+            },
+            {
+                "text": "We learn about the following in this chapter:",
+                "bounding_box": [
+                    45.0,
+                    166.0,
+                    447.0,
+                    166.0,
+                    447.0,
+                    185.0,
+                    45.0,
+                    184.0
+                ]
+            },
+            {
+                "text": "The trade and commerce relationship India had with Europeans",
+                "bounding_box": [
+                    73.0,
+                    196.0,
+                    600.0,
+                    197.0,
+                    600.0,
+                    215.0,
+                    73.0,
+                    214.0
+                ]
+            },
+            {
+                "text": "The arrival of Europeans to India for trade",
+                "bounding_box": [
+                    71.0,
+                    218.0,
+                    423.0,
+                    218.0,
+                    423.0,
+                    237.0,
+                    71.0,
+                    237.0
+                ]
+            },
+            {
+                "text": "The Carnatic wars in the backdrop of European political",
+                "bounding_box": [
+                    71.0,
+                    241.0,
+                    537.0,
+                    241.0,
+                    537.0,
+                    261.0,
+                    71.0,
+                    260.0
+                ]
+            },
+            {
+                "text": "developments.",
+                "bounding_box": [
+                    75.0,
+                    264.0,
+                    191.0,
+                    264.0,
+                    191.0,
+                    281.0,
+                    75.0,
+                    281.0
+                ]
+            },
+            {
+                "text": "Battle of Plassey, Battle of Buxar and Dual-Government system",
+                "bounding_box": [
+                    73.0,
+                    285.0,
+                    602.0,
+                    286.0,
+                    602.0,
+                    304.0,
+                    73.0,
+                    303.0
+                ]
+            },
+            {
+                "text": "The British policy of aggression",
+                "bounding_box": [
+                    72.0,
+                    306.0,
+                    332.0,
+                    307.0,
+                    332.0,
+                    327.0,
+                    72.0,
+                    326.0
+                ]
+            },
+            {
+                "text": "There were trade and commerce relations between India and Europe",
+                "bounding_box": [
+                    56.0,
+                    367.0,
+                    621.0,
+                    367.0,
+                    621.0,
+                    386.0,
+                    56.0,
+                    386.0
+                ]
+            },
+            {
+                "text": "since ancient times. There was great demand for Indian pepper, cumin,",
+                "bounding_box": [
+                    26.0,
+                    387.0,
+                    619.0,
+                    388.0,
+                    619.0,
+                    407.0,
+                    26.0,
+                    406.0
+                ]
+            },
+            {
+                "text": "demand for two",
+                "bounding_box": [
+                    330.0,
+                    390.0,
+                    483.0,
+                    297.0,
+                    503.0,
+                    344.0,
+                    353.0,
+                    422.0
+                ]
+            },
+            {
+                "text": "cinnamon, cardamom, ginger and many other spices in Europe. The trade",
+                "bounding_box": [
+                    26.0,
+                    409.0,
+                    621.0,
+                    408.0,
+                    621.0,
+                    427.0,
+                    26.0,
+                    428.0
+                ]
+            },
+            {
+                "text": "relations between India, Europe and other Asian countries continued even",
+                "bounding_box": [
+                    24.0,
+                    429.0,
+                    620.0,
+                    429.0,
+                    620.0,
+                    447.0,
+                    24.0,
+                    447.0
+                ]
+            },
+            {
+                "text": "during the Middle Ages. The Arab merchants carried Asian merchandise",
+                "bounding_box": [
+                    25.0,
+                    450.0,
+                    620.0,
+                    450.0,
+                    620.0,
+                    469.0,
+                    25.0,
+                    469.0
+                ]
+            },
+            {
+                "text": "to Constantinople of Eastern Roman (Byzantium) Empire. The Italian",
+                "bounding_box": [
+                    25.0,
+                    471.0,
+                    620.0,
+                    471.0,
+                    620.0,
+                    490.0,
+                    25.0,
+                    490.0
+                ]
+            },
+            {
+                "text": "merchants would buy these goods and then sell them in European",
+                "bounding_box": [
+                    25.0,
+                    492.0,
+                    620.0,
+                    492.0,
+                    620.0,
+                    512.0,
+                    25.0,
+                    511.0
+                ]
+            },
+            {
+                "text": "countries. Constantinople was thus the center of international trade",
+                "bounding_box": [
+                    26.0,
+                    514.0,
+                    621.0,
+                    513.0,
+                    621.0,
+                    532.0,
+                    26.0,
+                    533.0
+                ]
+            },
+            {
+                "text": "and was considered as the 'Gateway of European Trade'. While Arab",
+                "bounding_box": [
+                    25.0,
+                    535.0,
+                    620.0,
+                    534.0,
+                    620.0,
+                    553.0,
+                    25.0,
+                    553.0
+                ]
+            },
+            {
+                "text": "merchants had gained monopoly over the trade in Asian countries, Italian",
+                "bounding_box": [
+                    23.0,
+                    555.0,
+                    620.0,
+                    555.0,
+                    620.0,
+                    574.0,
+                    23.0,
+                    575.0
+                ]
+            },
+            {
+                "text": "traders had gained monopoly over trade in Europe. The merchandise from",
+                "bounding_box": [
+                    25.0,
+                    576.0,
+                    621.0,
+                    576.0,
+                    621.0,
+                    595.0,
+                    25.0,
+                    596.0
+                ]
+            },
+            {
+                "text": "Asia brought good profits to Italian merchants.",
+                "bounding_box": [
+                    25.0,
+                    597.0,
+                    419.0,
+                    597.0,
+                    419.0,
+                    616.0,
+                    25.0,
+                    616.0
+                ]
+            },
+            {
+                "text": "The fall of Constantinople: The trade and commerce between Asia",
+                "bounding_box": [
+                    56.0,
+                    621.0,
+                    621.0,
+                    622.0,
+                    621.0,
+                    641.0,
+                    56.0,
+                    640.0
+                ]
+            },
+            {
+                "text": "and Europe was carried on place through the city of Constantinople. In",
+                "bounding_box": [
+                    25.0,
+                    643.0,
+                    621.0,
+                    643.0,
+                    621.0,
+                    662.0,
+                    25.0,
+                    662.0
+                ]
+            },
+            {
+                "text": "1453, the Ottoman Turks captured the city of Constantinople. As a result,",
+                "bounding_box": [
+                    25.0,
+                    663.0,
+                    619.0,
+                    664.0,
+                    619.0,
+                    683.0,
+                    25.0,
+                    682.0
+                ]
+            },
+            {
+                "text": "all the trade routes connecting the city of Constantinople came under the",
+                "bounding_box": [
+                    25.0,
+                    684.0,
+                    620.0,
+                    684.0,
+                    620.0,
+                    704.0,
+                    25.0,
+                    704.0
+                ]
+            },
+            {
+                "text": "control of Turks. The Turks started levying too many taxes on the goods",
+                "bounding_box": [
+                    24.0,
+                    705.0,
+                    620.0,
+                    706.0,
+                    620.0,
+                    725.0,
+                    24.0,
+                    724.0
+                ]
+            },
+            {
+                "text": "passing through these routes. As a result, trade became unprofitable.",
+                "bounding_box": [
+                    24.0,
+                    727.0,
+                    620.0,
+                    726.0,
+                    620.0,
+                    745.0,
+                    24.0,
+                    745.0
+                ]
+            },
+            {
+                "text": "Meanwhile, Spain, Portugal and other European rulers were attempting",
+                "bounding_box": [
+                    25.0,
+                    747.0,
+                    622.0,
+                    748.0,
+                    622.0,
+                    767.0,
+                    25.0,
+                    766.0
+                ]
+            },
+            {
+                "text": "to break the monopoly of Italian traders. They started encouraging",
+                "bounding_box": [
+                    25.0,
+                    768.0,
+                    620.0,
+                    768.0,
+                    620.0,
+                    788.0,
+                    25.0,
+                    787.0
+                ]
+            },
+            {
+                "text": "enterprising sailors to find a new sea route to India. The invention of",
+                "bounding_box": [
+                    25.0,
+                    790.0,
+                    621.0,
+                    790.0,
+                    621.0,
+                    808.0,
+                    25.0,
+                    809.0
+                ]
+            },
+            {
+                "text": "compass, astrolabes, and gunpowder provided further impetus to this",
+                "bounding_box": [
+                    25.0,
+                    811.0,
+                    620.0,
+                    810.0,
+                    620.0,
+                    829.0,
+                    25.0,
+                    831.0
+                ]
+            },
+            {
+                "text": "venture.",
+                "bounding_box": [
+                    24.0,
+                    833.0,
+                    94.0,
+                    833.0,
+                    93.0,
+                    849.0,
+                    24.0,
+                    849.0
+                ]
+            },
+            {
+                "text": "1",
+                "bounding_box": [
+                    325.0,
+                    856.0,
+                    325.0,
+                    870.0,
+                    320.0,
+                    871.0,
+                    319.0,
+                    857.0
+                ]
+            }
+        ]
+    }
+]

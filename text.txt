@@ -1,0 +1,51 @@
+Artificial intelligence (AI) has revolutionized information
+technology. The new economy of information technology
+has shaped the way we are living. Recently, AI algorithms
+have attracted close attention of researchers and have also
+been applied successfully to solve problems in engineering.
+Nevertheless, for large and complex problems, AI algorithms
+consume considerable computation time due to stochastic
+feature of the search approaches. Therefore, there is a potential requirement to develop efficient algorithm to find solutions under the limited resources, time, and money in realworld applications. This special issue aims to report the latest
+advances in every aspect of artificial intelligence technology,
+including machine learning, data mining, computer vision,
+multiagent systems, evolutionary computation, and fuzzy
+logic.
+The special issue received 142 high quality submissions
+from different countries all over the world. All submitted
+papers followed the same standard (peer-reviewed by at
+least three independent reviewers) as applied to regular
+submissions to Mathematical Problems in Engineering. Due
+to the limited space, 57 papers were finally included. The
+primary guideline was to demonstrate the most significant
+developments on the topics of AI and to apply AI algorithms
+in real-life scenarios.
+In the paper entitled “Solving two-dimensional HP model
+by firefly algorithm and simplified energy function,” Y. Zhang
+et al. investigate traditional energy function and point out
+that its discrete property cannot give direction of the next step
+to the searching point, causing a challenge to optimization
+algorithms. Therefore, they introduce the simplified energy
+function to turn traditional discrete energy function to a
+continuous one. The simplified energy function totals the
+distance between all pairs of hydrophobic amino acids. To
+optimize the simplified energy function, they introduce the
+latest swarm intelligence algorithm, the firefly algorithm
+(FA). The experiments take 14 sequences of different chain
+lengths from 18 to 100 as the dataset and compare the
+FA with standard genetic algorithm and immune genetic
+algorithm. Each algorithm runs 20 times. The averaged
+energy convergence results show that FA achieves the lowest
+values. It concludes that it is effective to solve 2D HP model
+by the FA and the simplified energy function.
+In the paper entitled “Fault diagnosis for wireless sensor
+by twin support vector machine,” M. Ding et al. propose a
+novel fault diagnosis method for wireless sensor technology
+by twin support vector machine (TSVM) in order to improve
+the diagnosis accuracy of wireless sensor. Twin SVM is a
+binary classifier that performs classification by using two
+nonparallel hyperplanes instead of the single hyperplane
+used in the classical SVM. However, the parameter setting
+in the TSVM training procedure significantly influences
+the classification accuracy. Their study introduces PSO as
+an optimization technique to simultaneously optimize the
+TSVM training parameter. 
