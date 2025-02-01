@@ -26,14 +26,13 @@ Verba Vision Pro is an advanced digital solution for efficient and accurate docu
 ## Technologies Used
 - **Backend:** Flask, Python
 - **Frontend:** HTML5, CSS3, JavaScript
-- **OCR Engine:** Tesseract, Google Vision API
-- **Spell Checking:** PySpellChecker, Microsoft Word API
-- **Security:** SSL/TLS, AES Encryption
+- **OCR Engine:** Easy OCR,Azure Vision
+- **Spell Checking:** :Large Language Models
 
 ## System Architecture
 ### Workflow
 1. **Input Sources**
-   - Accepts PDF, JPEG, and Excel files for processing.
+   - Accepts JPEG,PNG.
 2. **Image Processing**
    - Separates and analyzes document layouts.
 3. **OCR Integration**
@@ -52,11 +51,7 @@ Verba Vision Pro is an advanced digital solution for efficient and accurate docu
    - Text parsing and error detection.
    - Suggestions for corrections and batch processing.
 
-### 3. Data Security and Confidentiality
-   - Encryption for data in transit and at rest.
-   - Multi-factor authentication and access logging.
-
-### 4. User Interface
+### 3. User Interface
    - File upload with drag-and-drop support.
    - Progress bars and real-time notifications.
 
@@ -64,7 +59,7 @@ Verba Vision Pro is an advanced digital solution for efficient and accurate docu
 ### Prerequisites
 - Python 3.10 or later
 - Flask
-- Tesseract OCR
+- Easy OCR,Azure Vision(if you have Api)
 
 ### Steps
 1. Clone the repository:
